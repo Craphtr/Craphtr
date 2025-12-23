@@ -1,4 +1,4 @@
-## **About Me!**
+# **About Me!**
 ___
 ## **Overview**
 
@@ -12,12 +12,12 @@ My professional philosophy is rooted in three core values that fuel my approach 
 
   **Perseverance**: Consistently driving projects to completion, from initial concept to deployment and monitoring.
 
-## 🚀 **Technical Expertise**
+## **Technical Expertise**
 
 I specialize in the end-to-end lifecycle of data and machine learning systems, focusing on reliability, scalability, and delivering tangible business value.
 
 
-### 📊 **Data & ML Pipeline Engineering**
+### **Data & ML Pipeline Engineering**
 
   **Production-Grade Ingestion Systems**: Designing and building robust pipelines to ingest, validate, and process data from diverse, varying sources, ensuring data quality and availability.
 
@@ -26,7 +26,7 @@ I specialize in the end-to-end lifecycle of data and machine learning systems, f
   **Data Wrangling, Cleaning & Transformation**: Mastering data manipulation using Python and SQL to create high-quality, analytical-ready datasets.
 
 
-### 🧪 **Modeling & Statistical Learning**
+### **Modeling & Statistical Learning**
 
   **Physics-Driven Predictive Models**: Developing specialized models that incorporate underlying physical principles, leading to more accurate and interpretable predictions.
 
@@ -35,7 +35,7 @@ I specialize in the end-to-end lifecycle of data and machine learning systems, f
   **Exploratory Data Analysis (EDA)**: Utilizing Python and SQL for deep data exploration to uncover insights, understand distributions, and guide feature engineering.
 
 
-### 🛠️ **Data Infrastructure & Tools**
+### **Data Infrastructure & Tools**
 
   **Analytical Dataset Construction**: Expertly building analytical and machine learning datasets optimized for performance using SQL.
 
