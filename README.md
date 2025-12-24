@@ -6,11 +6,11 @@ Welcome! I am a dedicated Data and Analytics Engineer who transforms complex dat
 
 My professional philosophy is rooted in three core values that fuel my approach to problem-solving and innovation:
 
-  **Patience**: Approaching complex system design and data debugging with a calm, methodical mindset.
+  - **Patience**: Approaching complex system design and data debugging with a calm, methodical mindset.
 
-  **Resilience**: Overcoming technical roadblocks and iterating through failures until a breakthrough is achieved.
+  - **Resilience**: Overcoming technical roadblocks and iterating through failures until a breakthrough is achieved.
 
-  **Perseverance**: Consistently driving projects to completion, from initial concept to deployment and monitoring.
+  - **Perseverance**: Consistently driving projects to completion, from initial concept to deployment and monitoring.
 
 ## **Technical Expertise**
 
