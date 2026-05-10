@@ -1,6 +1,6 @@
 <!-- Premium header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:111111,100:FFD300&height=220&section=header&text=Jibril%20Davies&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Decision%20Intelligence%20Systems%20Architect%20%C2%B7%20Full-Stack%20Product%20Builder%20%C2%B7%20Data%20Scientist&descAlignY=55&descSize=17" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:111111,100:FFD300&height=220&section=header&text=Jubril%20Davies&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Decision%20Intelligence%20Systems%20Architect%20%C2%B7%20Full-Stack%20Product%20Builder%20%C2%B7%20Data%20Scientist&descAlignY=55&descSize=17" />
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
   <a href="https://github.com/Craphtr">
     <img src="https://img.shields.io/badge/GitHub-Craphtr-111111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:jibrilthedatascientist@gmail.com">
+  <a href="mailto:jubril.davies@techcraphters.com">
     <img src="https://img.shields.io/badge/Email-Contact-B91C1C?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
